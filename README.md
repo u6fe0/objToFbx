@@ -14,4 +14,4 @@ python objToFbx.py
 
 
 注意：
-本例子使用的是python2.7 和  FBX SDK Python 2019.5.
+本例子使用的是python2.7.16 和  FBX SDK Python 2019.5
